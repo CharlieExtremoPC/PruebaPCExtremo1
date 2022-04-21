@@ -1,0 +1,25 @@
+@font-face {
+    font-family: roboto-bold;
+    src: url(./Fuentes/Roboto-Bold.ttf);
+}
+@font-face {
+    font-family: nunito;
+    src: url(./Fuentes/Nunito-Italic-VariableFont_wght.ttf);
+}
+
+* {
+    font-family: roboto-bold;
+}
+
+body {
+    background-color: brown;
+}
+
+h1 {
+    font-family: nunito
+    ;
+}
+
+p {
+    
+}
